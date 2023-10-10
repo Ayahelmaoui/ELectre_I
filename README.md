@@ -52,5 +52,43 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 # Contributors
 Helmaoui Aya
-# Contact
+
+## Contributions and Improvements
+
+We welcome contributions and improvements to the Electre1-D Java Program. If you have expertise in Java graphics and visualization or you have ideas on how to make the `NodeGraph` class work effectively, we encourage you to contribute to this project.
+
+### About the NodeGraph Class
+
+The `NodeGraph` class is intended to visualize the results of the Electre I analysis by creating a node graph representation. However, it currently requires further development and improvement to function optimally.
+
+### How You Can Contribute
+
+- **Code Enhancement**: You can work on improving the `NodeGraph` class, fixing issues, and optimizing its performance.
+
+- **Bug Fixes**: If you encounter any bugs or issues with the `NodeGraph` class, please report them, or better yet, submit a pull request with fixes.
+
+- **Documentation**: Enhance the documentation of the `NodeGraph` class to make it easier for others to understand and use.
+
+- **Ideas and Suggestions**: If you have ideas or suggestions for how to enhance the visual representation of Electre I results, please share them.
+
+### Getting Started
+
+To contribute, follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your contributions.
+
+3. Make your changes or improvements.
+
+4. Test your changes thoroughly.
+
+5. Submit a pull request with a clear description of your changes.
+
+### Contact
+
+If you have any questions or need guidance on contributing to the project, please feel free to reach out to us.
+
+Your contributions can help make this project more valuable to the community. Thank you for your interest and support!
+
 If you have any questions or need assistance, please contact helmaouiaya@yahoo.com.
