@@ -1,13 +1,13 @@
-#Electre1-D Java Program
+# Electre1-D Java Program
 The Electre1-D Java Program is designed to facilitate Electre I decision analysis. It allows you to input data, perform concordance and discordance analyses, and make project selections based on predefined thresholds.
 
-#Features
+# Features
 Concordance and Discordance Analysis: Calculate concordance and discordance matrices for your data.
 Project Selection: Determine which projects meet specified concordance and discordance thresholds.
 Data Input: Read data from CSV files or manually enter data.
 #Prerequisites
 Java Development Kit (JDK) installed on your system.
-#Usage
+# Usage
 Open Existing Data:
 
 Click the "Ouvrir" button to open an existing CSV file containing your data.
@@ -28,7 +28,7 @@ Click the "Affichage" button to view the selected projects.
 #Save Data (Optional):
 
 Click the "Enregistrer" button to save your data and configuration to a text file for future use.
-#Quit:
+# Quit:
 
 Click the "Quitter" button to exit the program.
 #Sample Data
@@ -45,7 +45,7 @@ You may obtain a copy of the License at:
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 
-Contributors
+# Contributors
 Helmaoui Aya
-Contact
+# Contact
 If you have any questions or need assistance, please contact helmaouiaya@yahoo.com.
