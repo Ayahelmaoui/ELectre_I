@@ -12,22 +12,27 @@ Java Development Kit (JDK) installed on your system.
 
 Click the "Ouvrir" button to open an existing CSV file containing your data.
 The CSV file should contain project data, with criteria represented as columns and projects as rows.
+
 2. Enter New Data (Optional):
 
 Click the "Nouveau" button to manually enter new project data.
 Enter the performance data for each project and criterion in the provided table.
 Specify the weight of each criterion and the thresholds for c and d.
+
 3. Perform Analysis:
 
 Click the "Traitement" button to calculate the concordance and discordance matrices.
 Adjust the c and d thresholds as needed.
+
 4. View Results:
 
 A tabbed interface will display the concordance, discordance, and selection matrices.
 Click the "Affichage" button to view the selected projects.
+
 5. Save Data (Optional):
 
 Click the "Enregistrer" button to save your data and configuration to a text file for future use.
+
 6. Quit:
 
 Click the "Quitter" button to exit the program.
